@@ -23,10 +23,10 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/automaxprocs v1.4.0
-	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
-	golang.org/x/net v0.0.0-20211111083644-e5c967477495
-	golang.org/x/sys v0.0.0-20211110154304-99a53858aa08
-	golang.org/x/text v0.3.7
+	golang.org/x/image v0.10.0
+	golang.org/x/net v0.6.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/text v0.11.0
 	google.golang.org/api v0.60.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.33.0
 )
